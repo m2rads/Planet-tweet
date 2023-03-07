@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/ARCore Extensions/1.35.0/Geospatial Sample/Scenes/Geospatial.unity
+    path: Assets/Planet-Tweet/ARCore/1.35.0/Geospatial Tweets/Scenes/Geospatial.unity
     guid: 1ed15e9657253406185e4b2c7c5a4fc4
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ad7491315ea864d7db2a7f902b7c280b,
