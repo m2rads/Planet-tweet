@@ -20,3 +20,6 @@ Geospatial AR Application that brings Tweeter posts to the real world
 * Getting started with ARCore:  https://developers.google.com/ar/develop/getting-started
 * Getting started with Geospatial API: https://developers.google.com/ar/develop/geospatial
 * How to setup your Geospatial API Key: https://developers.google.com/ar/develop/unity-arf/geospatial/enable-android
+
+*** 
+This app is available for Beta testing. If you are interested in testing this application, please send me your email address to e.mohammadrad2@gmail.com
