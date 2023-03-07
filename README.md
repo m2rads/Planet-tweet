@@ -6,9 +6,9 @@ Geospatial AR Application that brings Tweeter posts to the real world
 
 
 ## Development Setup
-***
 
 * Make sure you have Unity version 2019.4.36f1
+
 * Development Packages: 
   ** ARCore
   ** ARKit
