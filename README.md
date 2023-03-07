@@ -10,10 +10,10 @@ Geospatial AR Application that brings Tweeter posts to the real world
 * Make sure you have Unity version 2019.4.36f1
 
 * Development Packages: 
-  ** ARCore
-  ** ARKit
-  ** Geospatial API (Make sure to get your API Key)
-  ** Mpabox SDK for Unity (Grab your MapBox APIKey) 
+  * ARCore
+  * ARKit
+  * Geospatial API (Make sure to get your API Key)
+  * Mpabox SDK for Unity (Grab your MapBox APIKey) 
 
 ## Additional Information
  
