@@ -11,7 +11,7 @@ public class TwitterAPIRequest
 {
     private const string API_URL = "https://api.twitter.com/1.1/search/tweets.json?geocode=";
     private const string POINT_RADIUS = "1km";
-    private const string BEARER_TOKEN = "Bearer AAAAAAAAAAAAAAAAAAAAABA9lQEAAAAAiyYtfnDZiSOH%2B4IsRchUL0JlIro%3DtzVzT1geVNHnnGLSqoRPoSZjJsqvg1IlSuBXes1GiyGh8afYGu";
+    private const string BEARER_TOKEN = "Bearer AAAAAAAAAAAAAAAAAAAAABA9lQEAAAAAISLVk3GtigviI4Rhn8bWuWRr7do%3Db5zUegCGpfTvP7N29kuTx9SjfWXQwBcXLse2ohuSheXIEKqXzi";
 
     public IEnumerator GetData(string coordinates)
     {
